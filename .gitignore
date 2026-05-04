@@ -1,3 +1,7 @@
+# Implementation artifacts
+docs/
+log/
+
 # ModuleFiles links and local automation
 AGENTS*.md
 
